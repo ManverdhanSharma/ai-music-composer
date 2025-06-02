@@ -1,0 +1,11 @@
+streamlit==1.28.1
+torch>=1.13.0
+transformers==4.30.0
+audiocraft
+scipy
+librosa
+soundfile
+pydub
+numpy
+matplotlib
+
